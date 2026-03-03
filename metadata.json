@@ -1,0 +1,5 @@
+{
+  "name": "PDF MCQ Generator",
+  "description": "A web app to generate Multiple Choice Questions from uploaded PDF files.",
+  "requestFramePermissions": []
+}
